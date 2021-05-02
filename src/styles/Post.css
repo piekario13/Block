@@ -1,0 +1,44 @@
+h4 {
+  color: #fff;
+  margin: 5px 5px;
+  text-align: left;
+  font-family: "Anton", sans-serif;
+}
+
+p {
+  color: #fff;
+  margin: 5px 5px;
+  text-align: left;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 12px;
+}
+
+.divPost {
+  display: flex;
+  flex-direction: column;
+}
+
+.user {
+  border-radius: 50%;
+  background-color: #fff;
+  width: 50px;
+  height: 50px;
+  background: url(https://icons.veryicon.com/png/o/business/space-management-system/user-300.png);
+  background-size: cover;
+  margin: 5px 5px;
+  width: 50px;
+  background-color: #fff;
+}
+
+.userDiv {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+
+h5 {
+  margin: 5px;
+  text-align: right;
+  padding: 20px 10px;
+  color: #fff;
+}
