@@ -1,12 +1,12 @@
 h4 {
-  color: #fff;
+  color: #4169e1;
   margin: 5px 5px;
   text-align: left;
-  font-family: "Anton", sans-serif;
+  font-family: "Libre Franklin", sans-serif;
 }
 
 p {
-  color: #fff;
+  color: #000;
   margin: 5px 5px;
   text-align: left;
   font-family: "IBM Plex Sans", sans-serif;
@@ -40,5 +40,5 @@ h5 {
   margin: 5px;
   text-align: right;
   padding: 20px 10px;
-  color: #fff;
+  color: #000;
 }

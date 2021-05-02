@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Sans:wght@100;400&display=swap");
 
 body {
-  background-color: #000;
+  background-color: #fff;
 }
 
 .App {
@@ -11,7 +11,8 @@ body {
   flex-direction: column;
   margin: 20px auto;
   width: 500px;
-  background-color: #808080;
+  background-color: #fff;
   border-radius: 10px;
-  background-image: linear-gradient(#808080, #000);
+  background-image: linear-gradient(#fff, #ffffe0);
+  box-shadow: 2px 2px;
 }
